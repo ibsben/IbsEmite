@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/926/trunk/emite/src/test/java/com/calclab/emite/core/client/packet
+END
+AbstractHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/756/trunk/emite/src/test/java/com/calclab/emite/core/client/packet/AbstractHelper.java
+END
+NoPacketTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/776/trunk/emite/src/test/java/com/calclab/emite/core/client/packet/NoPacketTest.java
+END
+PacketTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/926/trunk/emite/src/test/java/com/calclab/emite/core/client/packet/PacketTest.java
+END
+TextUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/776/trunk/emite/src/test/java/com/calclab/emite/core/client/packet/TextUtilsTest.java
+END

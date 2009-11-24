@@ -1,0 +1,28 @@
+K 14
+subclipse:tags
+V 115
+396,emite-wiki-0.2.0,/wiki,tag
+408,emite-0.2.0,/trunk,tag
+692,emite-wiki-0.3.0,/wiki,tag
+697,emite-0.3.0,/trunk,tag
+K 10
+svn:ignore
+V 163
+screenlog.0
+.gwt-cache
+.project
+target
+.classpath
+.settings
+tomcat
+www
+gwt-out
+emite.iml
+emite.ipr
+emite.iws
+.gwt-tmp
+com.calclab.emite.Emite.JUnit
+.amateras
+.pmd
+
+END

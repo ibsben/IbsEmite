@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/843/trunk/emite/src/test/java/com/calclab/emite/testing
+END
+IsCollectionOfSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/547/trunk/emite/src/test/java/com/calclab/emite/testing/IsCollectionOfSize.java
+END
+IsCollectionLike.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/547/trunk/emite/src/test/java/com/calclab/emite/testing/IsCollectionLike.java
+END
+MockedSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/843/trunk/emite/src/test/java/com/calclab/emite/testing/MockedSession.java
+END
+IsPacketLikeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/551/trunk/emite/src/test/java/com/calclab/emite/testing/IsPacketLikeTest.java
+END
+EmiteAsserts.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/764/trunk/emite/src/test/java/com/calclab/emite/testing/EmiteAsserts.java
+END
+IsPacketLike.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/764/trunk/emite/src/test/java/com/calclab/emite/testing/IsPacketLike.java
+END
+MockitoEmiteHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/756/trunk/emite/src/test/java/com/calclab/emite/testing/MockitoEmiteHelper.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/496/trunk/emite/src/main/java/org/jabber/JabberHTTPBind
+END
+DNSUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/496/trunk/emite/src/main/java/org/jabber/JabberHTTPBind/DNSUtil.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/296/trunk/emite/src/main/java/org/jabber/JabberHTTPBind/Session.java
+END
+Janitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/296/trunk/emite/src/main/java/org/jabber/JabberHTTPBind/Janitor.java
+END
+SSLSocketReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/246/trunk/emite/src/main/java/org/jabber/JabberHTTPBind/SSLSocketReader.java
+END
+JHBServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/246/trunk/emite/src/main/java/org/jabber/JabberHTTPBind/JHBServlet.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/246/trunk/emite/src/main/java/org/jabber/JabberHTTPBind/Response.java
+END

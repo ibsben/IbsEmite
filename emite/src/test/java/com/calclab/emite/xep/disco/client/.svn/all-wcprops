@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/843/trunk/emite/src/test/java/com/calclab/emite/xep/disco/client
+END
+IdentityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/776/trunk/emite/src/test/java/com/calclab/emite/xep/disco/client/IdentityTest.java
+END
+DiscoveryManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/843/trunk/emite/src/test/java/com/calclab/emite/xep/disco/client/DiscoveryManagerTest.java
+END
+FeatureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/776/trunk/emite/src/test/java/com/calclab/emite/xep/disco/client/FeatureTest.java
+END

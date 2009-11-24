@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/room
+END
+RoomUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/room/RoomUI.java
+END
+JoinRoomPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/room/JoinRoomPanel.java
+END
+RoomUICommonPanelView.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/room/RoomUICommonPanelView.java
+END
+RoomUIManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/room/RoomUIManager.java
+END
+RoomUserListUIPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/room/RoomUserListUIPanel.java
+END
+RoomUIModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/room/RoomUIModule.java
+END
+RoomUICommonPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/room/RoomUICommonPanel.java
+END
+RoomUIPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/room/RoomUIPresenter.java
+END
+RoomUIPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/room/RoomUIPanel.java
+END
+InviteToRoomPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/room/InviteToRoomPanel.java
+END
+RoomUIView.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/room/RoomUIView.java
+END

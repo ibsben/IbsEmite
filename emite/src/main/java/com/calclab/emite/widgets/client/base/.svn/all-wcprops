@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/base
+END
+ComposedController.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/base/ComposedController.java
+END
+DockPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/base/DockPoint.java
+END
+EmiteWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/base/EmiteWidget.java
+END
+ComposedWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/base/ComposedWidget.java
+END
+GWTExtensibleWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/base/GWTExtensibleWidget.java
+END
+DockableWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/base/DockableWidget.java
+END

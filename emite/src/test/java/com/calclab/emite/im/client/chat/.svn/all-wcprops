@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/895/trunk/emite/src/test/java/com/calclab/emite/im/client/chat
+END
+AbstractChatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/884/trunk/emite/src/test/java/com/calclab/emite/im/client/chat/AbstractChatTest.java
+END
+ChatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/884/trunk/emite/src/test/java/com/calclab/emite/im/client/chat/ChatTest.java
+END
+ChatManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/895/trunk/emite/src/test/java/com/calclab/emite/im/client/chat/ChatManagerTest.java
+END
+AbstractChatManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/884/trunk/emite/src/test/java/com/calclab/emite/im/client/chat/AbstractChatManagerTest.java
+END

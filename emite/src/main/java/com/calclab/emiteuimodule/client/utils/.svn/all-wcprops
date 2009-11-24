@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/936/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils
+END
+new-chat.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/new-chat.png
+END
+question.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/question.png
+END
+group-chat.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/group-chat.png
+END
+message.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/message.png
+END
+xa.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/xa.png
+END
+del.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/del.png
+END
+invisible.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/invisible.png
+END
+user_add.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/user_add.png
+END
+away.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/away.png
+END
+info.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/info.png
+END
+new-email.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/new-email.png
+END
+ChatTextFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/936/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/ChatTextFormatter.java
+END
+unavailable.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/unavailable.png
+END
+ChatUIUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/ChatUIUtils.java
+END
+chat-small.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/chat-small.png
+END
+ChatIcons.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/ChatIcons.java
+END
+online.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/online.png
+END
+not-authorized.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/not-authorized.png
+END
+room-small.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/room-small.png
+END
+ChatIconDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/ChatIconDescriptor.java
+END
+info-lamp.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/info-lamp.png
+END
+chat.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/chat.png
+END
+busy.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/busy.png
+END
+new-message.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/new-message.png
+END
+cancel.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/cancel.png
+END
+emoticons.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/emoticons.xml
+END
+chat-new-message-small.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/chat-new-message-small.png
+END
+add.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/add.png
+END
+room-new-message-small.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/room-new-message-small.png
+END
+offline.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/618/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/utils/offline.png
+END

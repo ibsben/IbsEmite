@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/843/trunk/emite/src/test/java/com/calclab/emite/core/client/bosh
+END
+ConnectionTestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/843/trunk/emite/src/test/java/com/calclab/emite/core/client/bosh/ConnectionTestHelper.java
+END
+Bosh3ConnectionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/797/trunk/emite/src/test/java/com/calclab/emite/core/client/bosh/Bosh3ConnectionTests.java
+END

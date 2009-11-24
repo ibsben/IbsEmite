@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/room
+END
+RoomWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/room/RoomWidget.java
+END
+RoomPresenceWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/room/RoomPresenceWidget.java
+END
+RoomController.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/room/RoomController.java
+END
+GWTRoomWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/room/GWTRoomWidget.java
+END
+RoomPresenceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/room/RoomPresenceController.java
+END

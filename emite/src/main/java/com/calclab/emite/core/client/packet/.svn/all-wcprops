@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/926/trunk/emite/src/main/java/com/calclab/emite/core/client/packet
+END
+PacketTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/926/trunk/emite/src/main/java/com/calclab/emite/core/client/packet/PacketTestSuite.java
+END
+PacketRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/packet/PacketRenderer.java
+END
+AbstractPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/packet/AbstractPacket.java
+END
+PacketMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/packet/PacketMatcher.java
+END
+NoPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/packet/NoPacket.java
+END
+Packet.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/packet/Packet.java
+END
+MatcherFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/packet/MatcherFactory.java
+END
+DelegatedPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/packet/DelegatedPacket.java
+END
+TextPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/packet/TextPacket.java
+END
+TextUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/packet/TextUtils.java
+END
+IPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/packet/IPacket.java
+END

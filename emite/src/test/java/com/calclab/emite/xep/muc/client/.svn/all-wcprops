@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/901/trunk/emite/src/test/java/com/calclab/emite/xep/muc/client
+END
+RoomTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/901/trunk/emite/src/test/java/com/calclab/emite/xep/muc/client/RoomTest.java
+END
+RoomOccupantTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/776/trunk/emite/src/test/java/com/calclab/emite/xep/muc/client/RoomOccupantTest.java
+END
+MUCRoomManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/884/trunk/emite/src/test/java/com/calclab/emite/xep/muc/client/MUCRoomManagerTest.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/services
+END
+Services.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/services/Services.java
+END
+ScheduledAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/services/ScheduledAction.java
+END
+ConnectorCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/services/ConnectorCallback.java
+END
+ConnectorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/services/ConnectorException.java
+END

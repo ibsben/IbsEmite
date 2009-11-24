@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/954/trunk/emite/script
+END
+server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/414/trunk/emite/script/server.sh
+END
+EmiteGWTTest WEB dani.mac.launch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/756/trunk/emite/script/EmiteGWTTest%20WEB%20dani.mac.launch
+END
+EmiteGWTTest HOSTED dani.ubuntu.launch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/756/trunk/emite/script/EmiteGWTTest%20HOSTED%20dani.ubuntu.launch
+END
+findFilesWithoutCopyright.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/153/trunk/emite/script/findFilesWithoutCopyright.sh
+END
+clean_deploy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/440/trunk/emite/script/clean_deploy.sh
+END
+genOpenfireDemoAccounts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/485/trunk/emite/script/genOpenfireDemoAccounts.sh
+END
+EmiteGWTTest HOSTED dani.mac.launch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/756/trunk/emite/script/EmiteGWTTest%20HOSTED%20dani.mac.launch
+END
+EmiteGWTTest WEB dani.ubuntu.launch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/756/trunk/emite/script/EmiteGWTTest%20WEB%20dani.ubuntu.launch
+END
+addCopyrightToFiles.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/885/trunk/emite/script/addCopyrightToFiles.sh
+END
+set-svn-rev.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/906/trunk/emite/script/set-svn-rev.sh
+END
+upload_widgets.dani.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/906/trunk/emite/script/upload_widgets.dani.sh
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/906/trunk/emite/script/compile.sh
+END
+macserver.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/906/trunk/emite/script/macserver.sh
+END
+demo-deploy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/906/trunk/emite/script/demo-deploy.sh
+END
+genEjabberdAccounts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/697/trunk/emite/script/genEjabberdAccounts.sh
+END
+deploy_copy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/933/trunk/emite/script/deploy_copy.sh
+END
+signalGen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/933/trunk/emite/script/signalGen.sh
+END
+generateImageBundle.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/441/trunk/emite/script/generateImageBundle.sh
+END
+repopubli.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/954/trunk/emite/script/repopubli.sh
+END
+generateBasicUIElements.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/791/trunk/emite/script/generateBasicUIElements.sh
+END

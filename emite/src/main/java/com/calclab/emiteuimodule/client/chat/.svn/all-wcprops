@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/chat
+END
+ChatUIEventListenerCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/chat/ChatUIEventListenerCollection.java
+END
+ChatStatePresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/chat/ChatStatePresenter.java
+END
+ChatUITitle.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/chat/ChatUITitle.java
+END
+ChatStateTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/chat/ChatStateTimer.java
+END
+ChatUIPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/896/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/chat/ChatUIPresenter.java
+END
+ChatUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/chat/ChatUI.java
+END
+ChatUIPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/896/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/chat/ChatUIPanel.java
+END
+ChatNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/chat/ChatNotification.java
+END
+ChatUIEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/chat/ChatUIEventListener.java
+END
+ChatUIView.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/chat/ChatUIView.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/im/client/presence
+END
+PresenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/im/client/presence/PresenceManager.java
+END
+PresenceManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/im/client/presence/PresenceManagerImpl.java
+END

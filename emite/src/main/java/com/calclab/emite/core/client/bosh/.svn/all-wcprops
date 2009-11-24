@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/953/trunk/emite/src/main/java/com/calclab/emite/core/client/bosh
+END
+BoshConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/953/trunk/emite/src/main/java/com/calclab/emite/core/client/bosh/BoshConnection.java
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/928/trunk/emite/src/main/java/com/calclab/emite/core/client/bosh/Connection.java
+END
+BoshSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/core/client/bosh/BoshSettings.java
+END
+StreamSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/core/client/bosh/StreamSettings.java
+END

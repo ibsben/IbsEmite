@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/dialog
+END
+BasicDialogExtended.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/dialog/BasicDialogExtended.java
+END
+MessageDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/dialog/MessageDialog.java
+END
+BasicDialogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/dialog/BasicDialogListener.java
+END
+MultiChatPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/dialog/MultiChatPresenter.java
+END
+MultiChatPanelInfoTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/dialog/MultiChatPanelInfoTab.java
+END
+MultiChatPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/dialog/MultiChatPanel.java
+END

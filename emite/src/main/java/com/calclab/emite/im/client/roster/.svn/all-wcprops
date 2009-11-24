@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/im/client/roster
+END
+SubscriptionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/im/client/roster/SubscriptionManager.java
+END
+SubscriptionManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/im/client/roster/SubscriptionManagerImpl.java
+END
+RosterItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/im/client/roster/RosterItem.java
+END
+RosterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/im/client/roster/RosterImpl.java
+END
+Roster.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/im/client/roster/Roster.java
+END
+SubscriptionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/im/client/roster/SubscriptionState.java
+END

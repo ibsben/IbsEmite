@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/core/client/xmpp/stanzas
+END
+Presence.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/xmpp/stanzas/Presence.java
+END
+XmppURICache.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/core/client/xmpp/stanzas/XmppURICache.java
+END
+IQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/xmpp/stanzas/IQ.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/xmpp/stanzas/Message.java
+END
+XmppURI.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/xmpp/stanzas/XmppURI.java
+END
+Stanza.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/xmpp/stanzas/Stanza.java
+END
+BasicStanza.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/xmpp/stanzas/BasicStanza.java
+END

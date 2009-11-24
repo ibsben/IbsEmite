@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/934/trunk/emite/src/main/java/com/calclab/emite/widgets/client
+END
+WidgetsRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/WidgetsRegistry.java
+END
+EmiteWidgetsEntryPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/EmiteWidgetsEntryPoint.java
+END
+EmiteWidgetsModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/EmiteWidgetsModule.java
+END
+AutoDeploy.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/AutoDeploy.java
+END

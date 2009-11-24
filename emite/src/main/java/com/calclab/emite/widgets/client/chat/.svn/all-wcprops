@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/934/trunk/emite/src/main/java/com/calclab/emite/widgets/client/chat
+END
+GWTChatWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/chat/GWTChatWidget.java
+END
+CharlaWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/chat/CharlaWidget.java
+END
+AbstractChatWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/chat/AbstractChatWidget.java
+END
+ChatWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/chat/ChatWidget.java
+END
+AbstractChatController.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/chat/AbstractChatController.java
+END
+ChatController.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/chat/ChatController.java
+END
+GWTAbstractChatWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/934/trunk/emite/src/main/java/com/calclab/emite/widgets/client/chat/GWTAbstractChatWidget.java
+END

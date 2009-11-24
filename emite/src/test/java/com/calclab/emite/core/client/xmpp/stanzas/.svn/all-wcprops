@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/869/trunk/emite/src/test/java/com/calclab/emite/core/client/xmpp/stanzas
+END
+PresenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/869/trunk/emite/src/test/java/com/calclab/emite/core/client/xmpp/stanzas/PresenceTest.java
+END
+IQTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/776/trunk/emite/src/test/java/com/calclab/emite/core/client/xmpp/stanzas/IQTest.java
+END
+MessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/776/trunk/emite/src/test/java/com/calclab/emite/core/client/xmpp/stanzas/MessageTest.java
+END
+XmppURITest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/776/trunk/emite/src/test/java/com/calclab/emite/core/client/xmpp/stanzas/XmppURITest.java
+END
+BasicStanzaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/776/trunk/emite/src/test/java/com/calclab/emite/core/client/xmpp/stanzas/BasicStanzaTest.java
+END

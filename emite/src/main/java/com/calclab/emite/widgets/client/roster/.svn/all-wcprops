@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/roster
+END
+RosterWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/roster/RosterWidget.java
+END
+RosterController.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/roster/RosterController.java
+END
+GWTRosterWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/widgets/client/roster/GWTRosterWidget.java
+END

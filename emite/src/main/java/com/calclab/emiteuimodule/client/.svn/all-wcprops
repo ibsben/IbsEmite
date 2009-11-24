@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/936/trunk/emite/src/main/java/com/calclab/emiteuimodule/client
+END
+EmiteUIModuleEntryPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/EmiteUIModuleEntryPoint.java
+END
+SubscriptionMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/SubscriptionMode.java
+END
+EmiteUIDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/EmiteUIDialog.java
+END
+UserChatOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/UserChatOptions.java
+END
+ImagesHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/ImagesHelper.java
+END
+EmiteUIFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/EmiteUIFactory.java
+END
+EmiteUIModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/EmiteUIModule.java
+END

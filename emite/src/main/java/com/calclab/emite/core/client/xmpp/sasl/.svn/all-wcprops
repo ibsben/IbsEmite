@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/xmpp/sasl
+END
+Base64Coder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/756/trunk/emite/src/main/java/com/calclab/emite/core/client/xmpp/sasl/Base64Coder.java
+END
+SASLManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/xmpp/sasl/SASLManager.java
+END
+AuthorizationTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/xmpp/sasl/AuthorizationTransaction.java
+END

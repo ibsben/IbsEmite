@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/935/trunk/emite/war/WEB-INF/lib
+END
+gwt-user-1.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/935/trunk/emite/war/WEB-INF/lib/gwt-user-1.6.4.jar
+END
+gwt-log-2.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/934/trunk/emite/war/WEB-INF/lib/gwt-log-2.5.3.jar
+END
+gwt-servlet-1.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/935/trunk/emite/war/WEB-INF/lib/gwt-servlet-1.6.4.jar
+END

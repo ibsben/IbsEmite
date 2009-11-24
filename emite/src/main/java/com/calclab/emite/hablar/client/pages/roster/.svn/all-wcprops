@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/934/trunk/emite/src/main/java/com/calclab/emite/hablar/client/pages/roster
+END
+RosterView.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/934/trunk/emite/src/main/java/com/calclab/emite/hablar/client/pages/roster/RosterView.java
+END
+RosterController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emite/hablar/client/pages/roster/RosterController.java
+END
+SubscriptionRequestedPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/934/trunk/emite/src/main/java/com/calclab/emite/hablar/client/pages/roster/SubscriptionRequestedPanel.java
+END
+RosterItemView.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/934/trunk/emite/src/main/java/com/calclab/emite/hablar/client/pages/roster/RosterItemView.java
+END

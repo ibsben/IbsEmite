@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/j2se/services
+END
+TigaseXMLService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/j2se/services/TigaseXMLService.java
+END
+TigasePacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/j2se/services/TigasePacket.java
+END
+HttpConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/j2se/services/HttpConnector.java
+END
+J2SEServicesModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/j2se/services/J2SEServicesModule.java
+END
+ThreadScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/j2se/services/ThreadScheduler.java
+END

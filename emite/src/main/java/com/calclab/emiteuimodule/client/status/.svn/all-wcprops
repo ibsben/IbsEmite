@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/status
+END
+StatusUIPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/status/StatusUIPanel.java
+END
+StatusUIView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/status/StatusUIView.java
+END
+StatusUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/status/StatusUI.java
+END
+StatusUIModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/status/StatusUIModule.java
+END
+StatusUIPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/status/StatusUIPresenter.java
+END
+OwnPresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/status/OwnPresence.java
+END

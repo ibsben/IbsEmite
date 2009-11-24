@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/im/client/chat
+END
+PairChatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/im/client/chat/PairChatManager.java
+END
+AbstractChat.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/im/client/chat/AbstractChat.java
+END
+Chat.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/im/client/chat/Chat.java
+END
+ChatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/im/client/chat/ChatManager.java
+END
+PairChat.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/im/client/chat/PairChat.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/subscription
+END
+SubscriptionUIPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/subscription/SubscriptionUIPresenter.java
+END
+SubscriptionUIView.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/subscription/SubscriptionUIView.java
+END
+SubscriptionUIPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/933/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/subscription/SubscriptionUIPanel.java
+END
+SubscriptionUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/886/trunk/emite/src/main/java/com/calclab/emiteuimodule/client/subscription/SubscriptionUI.java
+END

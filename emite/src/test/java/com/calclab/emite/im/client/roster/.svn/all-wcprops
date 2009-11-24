@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/881/trunk/emite/src/test/java/com/calclab/emite/im/client/roster
+END
+RosterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/869/trunk/emite/src/test/java/com/calclab/emite/im/client/roster/RosterTests.java
+END
+RosterItemTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/776/trunk/emite/src/test/java/com/calclab/emite/im/client/roster/RosterItemTests.java
+END
+SubscriptionManagerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/881/trunk/emite/src/test/java/com/calclab/emite/im/client/roster/SubscriptionManagerTests.java
+END

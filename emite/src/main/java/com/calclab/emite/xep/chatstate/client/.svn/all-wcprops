@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/xep/chatstate/client
+END
+StateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/xep/chatstate/client/StateManager.java
+END
+ChatStateModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/xep/chatstate/client/ChatStateModule.java
+END
+ChatStateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/xep/chatstate/client/ChatStateManager.java
+END

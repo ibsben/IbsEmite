@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/services/gwt
+END
+GWTConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/services/gwt/GWTConnector.java
+END
+GWTScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/services/gwt/GWTScheduler.java
+END
+GWTXMLService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/services/gwt/GWTXMLService.java
+END
+GWTServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/core/client/services/gwt/GWTServices.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/xep/disco/client
+END
+Identity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/xep/disco/client/Identity.java
+END
+DiscoveryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/xep/disco/client/DiscoveryManager.java
+END
+DiscoveryModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/xep/disco/client/DiscoveryModule.java
+END
+Feature.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/885/trunk/emite/src/main/java/com/calclab/emite/xep/disco/client/Feature.java
+END

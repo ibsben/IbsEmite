@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/884/trunk/emite/src/test/java/com/calclab/emite/widgets/client/chat
+END
+AbstractChatControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/720/trunk/emite/src/test/java/com/calclab/emite/widgets/client/chat/AbstractChatControllerTest.java
+END
+ChatControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/884/trunk/emite/src/test/java/com/calclab/emite/widgets/client/chat/ChatControllerTest.java
+END
